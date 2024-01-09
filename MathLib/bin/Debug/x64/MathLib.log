@@ -1,0 +1,11 @@
+﻿  Проверка источников на наличие зависимостей модуля…
+  Math.ixx
+  Компиляция…
+  Math.ixx
+C:\Users\airat\source\repos\CppLab5\MathLib\Math.ixx(35,18): warning C4455: "operator ""i": идентификаторы литеральных суффиксов, которые начинаются не с символа подчеркивания, зарезервированы
+C:\Users\airat\source\repos\CppLab5\MathLib\Math.ixx(36,18): warning C4455: "operator ""i": идентификаторы литеральных суффиксов, которые начинаются не с символа подчеркивания, зарезервированы
+C:\Users\airat\source\repos\CppLab5\MathLib\Math.ixx(199,18): warning C4455: "operator ""i": идентификаторы литеральных суффиксов, которые начинаются не с символа подчеркивания, зарезервированы
+C:\Users\airat\source\repos\CppLab5\MathLib\Math.ixx(202,18): warning C4455: "operator ""i": идентификаторы литеральных суффиксов, которые начинаются не с символа подчеркивания, зарезервированы
+C:\Users\airat\source\repos\CppLab5\MathLib\Math.ixx(203,21): warning C4244: аргумент: преобразование "unsigned __int64" в "double", возможна потеря данных
+C:\Users\airat\source\repos\CppLab5\MathLib\Math.ixx(223,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  MathLib.vcxproj -> C:\Users\airat\source\repos\CppLab5\bin\Debug\x64\MathLib.lib

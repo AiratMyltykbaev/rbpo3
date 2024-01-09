@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "bin\\Debug\\Win32\\Math.ixx.obj",
+            "outputs": [
+                "C:\\Users\\airat\\source\\repos\\CppLab5\\bin\\Debug\\Win32\\MathLib.pdb",
+                "bin\\Debug\\Win32\\",
+                "C:\\Users\\airat\\source\\repos\\CppLab5\\MathLib\\bin\\Debug\\Win32\\Math.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Math",
+                    "source-path": "c:\\users\\airat\\source\\repos\\cpplab5\\mathlib\\math.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
